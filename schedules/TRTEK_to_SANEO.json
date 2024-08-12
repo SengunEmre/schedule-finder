@@ -1,0 +1,25 @@
+[
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "16/08/2024",
+        "Port": "PIRAEUS",
+        "PortCode": "GRPIR",
+        "Departure": "22/08/2024"
+      },
+      "ts2": {
+        "Arrival": "28/08/2024",
+        "Port": "KING ABDULLAH PORT",
+        "PortCode": "SAKAC",
+        "Departure": "02/09/2024"
+      }
+    },
+    "Carrier": "MSC",
+    "PolName": "TEKIRDAG (ASYAPORT)",
+    "PolCode": "TRTEK",
+    "PolDeparture": "15/08/2024",
+    "PodName": "NEOM",
+    "PodCode": "SANEO",
+    "PodArrival": "05/09/2024"
+  }
+]

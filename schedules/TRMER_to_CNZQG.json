@@ -1,0 +1,65 @@
+[
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "15/09/2024",
+        "Port": "SINGAPORE",
+        "PortCode": "SGSIN",
+        "Departure": "18/09/2024"
+      }
+    },
+    "Carrier": "ONE LINE",
+    "PolName": "MERSIN",
+    "PolCode": "TRMER",
+    "PolDeparture": "11/08/2024",
+    "PodName": "ZHAOQING, GUANGDONG",
+    "PodCode": "CNZQG",
+    "PodArrival": "25/09/2024"
+  },
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "04/08/2024",
+        "Port": "PIRAEUS",
+        "PortCode": null,
+        "Departure": "05/08/2024"
+      },
+      "ts2": {
+        "Arrival": "15/09/2024",
+        "Port": "SHEKOU, CHINA",
+        "PortCode": null,
+        "Departure": "15/09/2024"
+      }
+    },
+    "Carrier": "EVERGREEN",
+    "PolName": "MERSIN",
+    "PolCode": null,
+    "PolDeparture": "26/07/2024",
+    "PodName": "ZHAOQING, GUANGDONG",
+    "PodCode": null,
+    "PodArrival": "19/09/2024"
+  },
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "04/08/2024",
+        "Port": "PIRAEUS",
+        "PortCode": null,
+        "Departure": "05/08/2024"
+      },
+      "ts2": {
+        "Arrival": "15/09/2024",
+        "Port": "SHEKOU, CHINA",
+        "PortCode": null,
+        "Departure": "15/09/2024"
+      }
+    },
+    "Carrier": "EVERGREEN",
+    "PolName": "MERSIN",
+    "PolCode": null,
+    "PolDeparture": "26/07/2024",
+    "PodName": "ZHAOQING, GUANGDONG",
+    "PodCode": null,
+    "PodArrival": "19/09/2024"
+  }
+]
