@@ -1,0 +1,25 @@
+[
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "13/08/2024",
+        "Port": "TEKIRDAG (ASYAPORT)",
+        "PortCode": "TRTEK",
+        "Departure": "22/08/2024"
+      },
+      "ts2": {
+        "Arrival": "28/08/2024",
+        "Port": "SINES",
+        "PortCode": "PTSIE",
+        "Departure": "31/08/2024"
+      }
+    },
+    "Carrier": "MSC",
+    "PolName": "ANTALYA",
+    "PolCode": "TRAYT",
+    "PolDeparture": "11/08/2024",
+    "PodName": "SANTOS",
+    "PodCode": "BRSSZ",
+    "PodArrival": "12/09/2024"
+  }
+]
