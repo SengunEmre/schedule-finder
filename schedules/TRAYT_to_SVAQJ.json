@@ -1,0 +1,89 @@
+[
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "13/08/2024",
+        "Port": "TEKIRDAG (ASYAPORT)",
+        "PortCode": "TRTEK",
+        "Departure": "16/08/2024"
+      },
+      "ts2": {
+        "Arrival": "23/08/2024",
+        "Port": "SINES",
+        "PortCode": "PTSIE",
+        "Departure": "24/08/2024"
+      },
+      "ts3": {
+        "Arrival": "04/09/2024",
+        "Port": "RODMAN",
+        "PortCode": "PAROD",
+        "Departure": "09/09/2024"
+      }
+    },
+    "Carrier": "MSC",
+    "PolName": "ANTALYA",
+    "PolCode": "TRAYT",
+    "PolDeparture": "11/08/2024",
+    "PodName": "ACAJUTLA",
+    "PodCode": "SVAQJ",
+    "PodArrival": "15/09/2024"
+  },
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "13/08/2024",
+        "Port": "TEKIRDAG (ASYAPORT)",
+        "PortCode": "TRTEK",
+        "Departure": "16/08/2024"
+      },
+      "ts2": {
+        "Arrival": "23/08/2024",
+        "Port": "SINES",
+        "PortCode": "PTSIE",
+        "Departure": "24/08/2024"
+      },
+      "ts3": {
+        "Arrival": "04/09/2024",
+        "Port": "RODMAN",
+        "PortCode": "PAROD",
+        "Departure": "09/09/2024"
+      }
+    },
+    "Carrier": "MSC",
+    "PolName": "ANTALYA",
+    "PolCode": "TRAYT",
+    "PolDeparture": "11/08/2024",
+    "PodName": "ACAJUTLA",
+    "PodCode": "SVAQJ",
+    "PodArrival": "15/09/2024"
+  },
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "13/08/2024",
+        "Port": "TEKIRDAG (ASYAPORT)",
+        "PortCode": "TRTEK",
+        "Departure": "16/08/2024"
+      },
+      "ts2": {
+        "Arrival": "23/08/2024",
+        "Port": "SINES",
+        "PortCode": "PTSIE",
+        "Departure": "24/08/2024"
+      },
+      "ts3": {
+        "Arrival": "04/09/2024",
+        "Port": "RODMAN",
+        "PortCode": "PAROD",
+        "Departure": "09/09/2024"
+      }
+    },
+    "Carrier": "MSC",
+    "PolName": "ANTALYA",
+    "PolCode": "TRAYT",
+    "PolDeparture": "11/08/2024",
+    "PodName": "ACAJUTLA",
+    "PodCode": "SVAQJ",
+    "PodArrival": "15/09/2024"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "ts": {
+      "ts1": {
+        "Arrival": "22/09/2024",
+        "Port": "SINGAPORE",
+        "PortCode": "SGSIN",
+        "Departure": "28/09/2024"
+      }
+    },
+    "Carrier": "ONE LINE",
+    "PolName": "IZMIT",
+    "PolCode": "TRIZT",
+    "PolDeparture": "13/08/2024",
+    "PodName": "ZHONGSHAN, GUANGDONG",
+    "PodCode": "CNZSN",
+    "PodArrival": "04/10/2024"
+  }
+]
